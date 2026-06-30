@@ -31,8 +31,8 @@ Want to run this robot friend on your own laptop? Follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/vishnu-g-dev/Smart-ATS.git](https://github.com/vishnu-g-dev/Smart-ATS.git)
-cd Smart-ATS
+git clone [https://github.com/vishnu-g-dev/Smart-ATS-Resume-Analyzer.git](https://github.com/vishnu-g-dev/Smart-ATS-Resume-Analyzer.git)
+cd Smart-ATS-Resume-Analyzer
 ```
 
 ### 2. Install Superpowers (Dependencies)
